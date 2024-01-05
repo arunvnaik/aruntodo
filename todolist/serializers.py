@@ -3,7 +3,7 @@
 from rest_framework import serializers
 from todolist.models import  User,Task
 
-
+#editing
 
 class UserSerializer(serializers.ModelSerializer):
     class Meta:
